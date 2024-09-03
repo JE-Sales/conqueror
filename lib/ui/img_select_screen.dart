@@ -9,8 +9,9 @@ import 'package:conqueror/img_preprocess/manual_edit.dart';
 
 import 'package:conqueror/ui/result_screen.dart';
 
+import 'package:conqueror/recognition/text_recognition_service.dart';
 //Temporary
-import 'package:conqueror/detection_and_recognition/recognition.dart';
+// import 'package:conqueror/detection_and_recognition/recognition.dart';
 import 'package:conqueror/ui/camera_screen.dart';
 
 class ImageSelection extends StatefulWidget {
